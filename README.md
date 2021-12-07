@@ -28,11 +28,13 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 1. Evelyng Vasquez
 2. Joshue Ruiz 
 3. Lisbeth Alvarado
+4. Nayeli Gladys Mamallacta Grefa
 
 ## INFORMACIÓN ADICIONAL
 
-- Página de la Univerdidad de Cambridge para entrenamiento en Bioinformática: <https://bioinfotraining.bio.cam.ac.uk/>
+<https://bioinfotraining.bio.cam.ac.uk/>
 
+- Pagina Bioinformatics at COMAV <https://bioinf.comav.upv.es/courses/linux/python/introduccion.html
 
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
